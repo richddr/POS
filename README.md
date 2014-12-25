@@ -1,4 +1,6 @@
 POS
 ===
+Final project for my Web Dev II class:
+Point of Sale in Grails. Integrated with Jasper Reports and Paypal. Complete details of the project are in the "Proyecto Final" pdf file (In Spanish)
 
-Grails POS with Paypal payment &amp; Jasper Reports integration
+Developed by Richard Garcia and David De La Hoz
